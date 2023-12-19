@@ -1,10 +1,9 @@
-- Hey there 👋  I’m Harshvardhan
-- 👀 I’m interested in Programming, Building logics, Proposing optimised solutions, Cloud Services
-- 🌱 I’m currently learning data structures, tech stacks and lot of stuff
--[💞 I’m looking to collaborate on any new projects
-- 📫 You can reach out to me at:- harsh5716@gmail.com
+🥰 - Hi there, I'm Harsh 
+🪩 - I’ve been working in the tech industry as a full stack developer for over 2 years. 
+🌿 - I’m currently improving my back end skills and trying to design and build scalable web applications 
+🕰️ - Coding is not easy, and it's okay to improve, fail, make mistakes and learn at your own pace
+🏆 - To be a good developer you need lots of patience, failures and practice.
 
-🌱 I’m currently Learning : Software Develpement and Applications
 <!---
 Harshvardhan1999/Harshvardhan1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
